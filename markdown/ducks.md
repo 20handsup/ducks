@@ -7,5 +7,3 @@ There is a famous cartoon duck named "Daffy."  He's black in color with a ring a
 Ducks are rather large for birds.  And are favorites for hunters.  Maybe because they are very large (easier to hit) and they are generally shot when attempting to lite (or land) on ponds or bodies of water.  
 
 We believe that all ponds in our country should have ducks. They are fun to watch.
-
-![douh](../img/duoh.png)
